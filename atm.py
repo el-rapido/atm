@@ -11,7 +11,7 @@ class ATM:
 
     def display_goodbye(self):
         print("=" * 30)
-        print(" " * 8 + "Thank you for using ATM")
+        print(" " * 8 + "Thank you for using Thom Bank")
         print(" " * 12 + "Goodbye!")
         print("=" * 30)
 
